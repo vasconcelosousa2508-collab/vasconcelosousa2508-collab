@@ -19,8 +19,9 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
     <img src="https://img.shields.io/badge/Dart-40E0D0?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white" alt="C++" />
+
 
 </p>
 
