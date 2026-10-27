@@ -4,7 +4,7 @@
 <table border="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 10px;">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=vasconcelosousa2508-collab&show_icons=true&theme=transparent&hide_border=true" alt="Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vasconcelosousa2508-collab&show_icons=true&theme=transparent&hide_border=true" alt="Stats" />
     </td>
     <td style="border: none;">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vasconcelosousa2508-collab&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
