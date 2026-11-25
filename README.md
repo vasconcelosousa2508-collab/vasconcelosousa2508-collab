@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
     <img style="border-radius: 0" width="75px" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white" alt="C++" />
     
-
+ 
 
 
 </p>
